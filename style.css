@@ -1,0 +1,52 @@
+.header{
+ height: 100px;
+	background-color:red;
+	border: 5px solid green;
+}
+.wrapper{
+	overflow: hidden;
+	border: 5px solid skyblue;
+}
+.blog{
+	height:200px;
+	background-color:blue ;
+	width: 60%;
+	float:right;
+}
+.content{
+	height:200px;
+	background-color:green;
+	width: 40%;
+	float: left;
+}
+.oppu{
+overflow: hidden;
+border: 5px solid red;
+}
+.blue{
+height: 200px;
+background-color:blue ;
+ width: 33.33%;
+ float: left;
+}
+.black{
+height: 200px;
+background-color:skyblue ;
+width: 33.33%;
+float: left;
+}
+.yellow{
+height: 200px;
+background-color:yellowgreen ;
+width: 33.33%;
+float: left;
+}
+.footer{
+	
+	height: 100px;
+	background-color:gold;
+	border: 10px solid blue;
+}
+.iframe{
+	border: 10px solid blue;
+}
